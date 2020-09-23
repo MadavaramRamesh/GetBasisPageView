@@ -1,0 +1,6 @@
+framework module Pods_GetBasisPageView_GetBasisPageViewUITests {
+  umbrella header "Pods-GetBasisPageView-GetBasisPageViewUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
